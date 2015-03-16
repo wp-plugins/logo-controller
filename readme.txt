@@ -22,7 +22,7 @@ functions in your theme to display the logo.
 // print : http://example.com/path/to/logo.png 
  echo hyyan_get_the_logo(); 
 
-// print : <img src="http://example.com/path/to/logo.png" alt="Website Title">    
+// print : <img src="http://example.com/path/to/logo.png">    
  hyyan_the_logo(); 
 `
 
