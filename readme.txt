@@ -1,4 +1,4 @@
-=== Sidebar Highlight ===
+=== Logo Controller ===
 Contributors: hyyan 
 Tags: logo , cutomizer , wp cutomizer , wordpress cutomizer , logo cutomizer , logo controller, logo plugin , website logo , theme logo , client logo
 Requires at least: 3.0.1
